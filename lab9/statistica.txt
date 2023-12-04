@@ -1,0 +1,27 @@
+
+nume:f1.txt
+utilizator:1000
+dimensiune:0
+Wed Nov 15 16:13:32 2023
+contor de legaturi:1
+drepturi de acces user: RW-
+drepturi de acces grup: R--
+drepturi de acces altii: R-X
+nume:f1
+utilizator:1000
+dimensiune:0
+Wed Nov 15 16:13:32 2023
+contor de legaturi:1
+drepturi de acces user: RW-
+drepturi de acces grup: R--
+drepturi de acces altii: R-X
+nume:imagine_1.bmp
+inaltime:467 
+ latime:467
+utilizator:1000
+dimensiune:219634
+Wed Nov 15 16:27:28 2023
+contor de legaturi:1
+drepturi de acces user: RW-
+drepturi de acces grup: R--
+drepturi de acces altii: R-X
